@@ -5,3 +5,9 @@
 *.png
 *.swf
 *.csv
+
+#python 2.7 virtual env
+py27-env 
+
+#output
+output
